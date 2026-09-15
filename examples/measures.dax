@@ -1,0 +1,5 @@
+Total Revenue = SUM(sales[revenue])
+
+Units Sold = SUM(sales[quantity])
+
+Average Sale = DIVIDE([Total Revenue], DISTINCTCOUNT(sales[sale_id]))
