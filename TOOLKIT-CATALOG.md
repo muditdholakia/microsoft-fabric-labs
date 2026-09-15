@@ -27,3 +27,15 @@ All forks preserve upstream attribution. The original portfolio implementations 
 For each selected example, record architecture, SDK versions, setup, a successful prompt, negative grounding/permission tests, and one operational failure. Implement an original variation here and preserve attribution for adaptations. Do not present upstream agents as original authorship.
 
 References: [Fabric data agent SDK](https://learn.microsoft.com/en-us/fabric/data-science/fabric-data-agent-sdk), [Microsoft agent samples](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/agent-samples).
+
+## Dependency audit snapshot — 2026-09-15
+
+Counts span the entire repository, including unrelated examples. Select a documented starting exercise and review its own manifests before installing anything. Critical/high alerts require remediation. Fork Actions remain disabled; cloud execution was not tested. Zero alerts is not certification.
+
+| Curated source | Open dependency alerts | Critical | High |
+| --- | ---: | ---: | ---: |
+| [fabric-samples](https://github.com/muditdholakia/fabric-samples) | 76 | 3 | 35 |
+| [semantic-link-labs](https://github.com/muditdholakia/semantic-link-labs) | 0 | 0 | 0 |
+| [fabric-data-agent-workshop](https://github.com/muditdholakia/fabric-data-agent-workshop) | 0 | 0 | 0 |
+| [fabric-extensibility-toolkit](https://github.com/muditdholakia/fabric-extensibility-toolkit) | 7 | 0 | 0 |
+| [fabric-user-data-functions-samples](https://github.com/muditdholakia/fabric-user-data-functions-samples) | 0 | 0 | 0 |
