@@ -50,3 +50,7 @@ Review Dependabot changes and current platform documentation before upgrading.
 Python syntax and local smoke tests are checked before publication. Cloud execution,
 tenant integrations, Tableau workbook authoring, and live agent evaluation require
 your development environments and have not been verified by local checks.
+
+## Toolkit and agent learning catalog
+
+See [Toolkit and agent learning catalog](TOOLKIT-CATALOG.md) for the curated forks, supported SDK references, starting exercises, and compatibility guidance.
